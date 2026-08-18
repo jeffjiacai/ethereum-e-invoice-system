@@ -1,0 +1,16 @@
+{
+  "name": "einvoice-agent",
+  "version": "1.0.0",
+  "description": "AI agent layer over the verified blockchain e-invoice contract",
+  "type": "module",
+  "scripts": {
+    "demo": "node demo.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "ethers": "^6.13.0"
+  },
+  "optionalDependencies": {
+    "@anthropic-ai/sdk": "^0.111.0"
+  }
+}

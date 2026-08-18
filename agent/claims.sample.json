@@ -1,0 +1,8 @@
+[
+  { "claimId": "CLM-2026-101", "description": "New office laptop for the engineering team", "amountYuan": 1130.0 },
+  { "claimId": "CLM-2026-102", "description": "Taxi to the client site in Haidian", "amountYuan": 217.3 },
+  { "claimId": "CLM-2026-103", "description": "Hotel for the Shenzhen business trip", "amountYuan": 848.0 },
+  { "claimId": "CLM-2026-104", "description": "Office laptop purchase (resubmitted, receipt attached again)", "amountYuan": 1130.0 },
+  { "claimId": "CLM-2026-105", "description": "Annual industry conference registration fee", "amountYuan": 6780.0 },
+  { "claimId": "CLM-2026-106", "description": "Team dinner after the product launch", "amountYuan": 2260.0 }
+]

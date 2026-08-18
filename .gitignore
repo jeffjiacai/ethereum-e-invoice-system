@@ -1,0 +1,12 @@
+node_modules/
+cache/
+artifacts/
+dist/
+*.log
+
+# LaTeX build artifacts
+
+# third-party publisher templates (kept locally, not part of this artifact)
+
+# editor/tooling config, not part of the artifact
+.claude/
